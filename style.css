@@ -40,9 +40,10 @@
   }
   
   header h1{
-    color:rgb(99, 99, 239);
+    color: white;
   }
   
+  /*Input*/
   .input-container{
     width: 95%;
     height: 40px;
@@ -75,10 +76,11 @@
     background-color:hsl(0, 0%, 59%);
   }
   
+  /*Info*/
   .info-container{
     width: 95%;
     max-width: 1000px;
-    background-color:white;
+    background-color: white;
     display: flex;
     flex-direction: row;
     align-items: center;
@@ -113,7 +115,7 @@
     margin-top: 10px;
   }
   
-  
+  /*map*/
   .map-container{
     width: 100%;
     height: 60%;
